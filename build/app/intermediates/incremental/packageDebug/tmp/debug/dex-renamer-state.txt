@@ -1,0 +1,4 @@
+#Fri Apr 09 17:43:03 ICT 2021
+base.0=D\:\\latifah\\SEMESTER6\\FRAMEWORK_MOBILE\\Project\\flutter_latifah\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
